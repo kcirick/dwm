@@ -1,0 +1,9 @@
+DWM version 6.0
+
+customized heavily. Patches added:
+   - bstack
+   - pertag2
+   - movestack
+   - statuscolors
+   - systray patch
+   - launcher patch
